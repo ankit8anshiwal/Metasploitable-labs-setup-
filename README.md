@@ -21,4 +21,6 @@ Then NEW - <GIVE NAME> - LINUX - OTHER LINUX - FINISH
 
 SETTING - STORAGE - CONTROLLER:SATA - HARD DISK TO SELECT WHERE YOU DOWNLOAD YOUR VM METASPLOIT FILE - OK 
 
+![image](https://github.com/ankit8anshiwal/Metasploitable-labs-setup-/blob/main/Screenshot_2026-01-04_17_43_29.png)
+
 START
